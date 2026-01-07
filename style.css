@@ -52,7 +52,7 @@ nav a:hover{
     transition-duration: 0.5s;
 }
 main{
-    margin: 0 2em 0 2em;
+    margin: 0 20px 0 20px;
     height: auto;
     padding-top: 0;
     padding: 0.6em;
